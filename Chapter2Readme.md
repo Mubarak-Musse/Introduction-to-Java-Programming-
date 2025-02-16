@@ -1,6 +1,5 @@
 # Chpater 2 Note
 
-
 ```
 the focuse of this chapter is on leanring elementary programming techniques to solve problems 
  
@@ -17,4 +16,4 @@ the focuse of this chapter is on leanring elementary programming techniques to s
     b.type
     c.value
       
-
+6. More information will follow below this line
